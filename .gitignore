@@ -1,0 +1,9 @@
+# Ignore the following filetypes:
+
+* .png
+* .txt
+* .jpg
+
+# Ignore the following folders:
+
+* SEPM guest lectures
