@@ -1,6 +1,6 @@
 # Author: Jesse Partonen
 
-print("I am somewhat familiar with Git")
+print("Git is weird")
 
 import random as rmd
 
