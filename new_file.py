@@ -1,3 +1,1 @@
-print("Woozies, this is some cool stuff!!!!!")
-
-print("new code for the assingment")
+print("Woozies, this is some cool stuff")
